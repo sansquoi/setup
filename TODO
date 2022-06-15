@@ -1,0 +1,35 @@
+Programs:
+Terminator
+Gnome-Tweaks
+VS Code
+Notepadqq
+CompizConfig Settings Manager
+Docker
+VirtualBox
+HexChat
+htop
+plocate
+zsh:
+  sync .zshrc
+  install themes
+vlc
+firefox
+openssh
+python
+R
+afl++
+autotools
+binutils
+busybox?
+clang/llvm
+ffmpeg
+gdb
+lightdm
+mariadb
+
+Fonts:
+Fira Code
+
+
+Change Defaults:
+Terminal to terminator
