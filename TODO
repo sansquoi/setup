@@ -26,6 +26,7 @@ ffmpeg
 gdb
 lightdm
 mariadb
+suckless-tools
 
 Fonts:
 Fira Code
