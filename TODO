@@ -27,6 +27,8 @@ gdb
 lightdm
 mariadb
 suckless-tools
+nnn
+alacarte
 
 Fonts:
 Fira Code
@@ -34,6 +36,9 @@ Fira Code
 
 Change Defaults:
 Terminal to terminator
+Default Terminator Profile Colors
+  iterm2 colormap
+  
 
 
 Resources:
