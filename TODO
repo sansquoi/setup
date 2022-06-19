@@ -29,6 +29,8 @@ mariadb
 suckless-tools
 nnn
 alacarte
+guake
+
 
 Fonts:
 Fira Code
@@ -38,6 +40,12 @@ Change Defaults:
 Terminal to terminator
 Default Terminator Profile Colors
   iterm2 colormap
+Gnome Tweaks:
+  System Wide Fonts
+
+Startup:
+guake
+vpnc
   
 
 
